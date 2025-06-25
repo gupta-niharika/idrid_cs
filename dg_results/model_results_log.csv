@@ -1,0 +1,3 @@
+Model,Test Acc,Train Acc (last),Val Acc (last),Train Loss (last),Val Loss (last),Macro Precision,Macro Recall,Macro F1,Notes
+ResNet34,0.5243,0.7288,0.3107,1.0344,1.8018,0.4738,0.3725,0.3802,"Aug, class weights, label smoothing"
+ResNet18,0.5728,0.8935,0.3495,0.7957,1.6740,0.4481,0.4243,0.4264,"Aug, class weights, label smoothing"
